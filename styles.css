@@ -4,7 +4,7 @@ body, html {
   padding: 0;
   height: 100%;
   font-family: "Arial", sans-serif;
-  background: url("background-tet.jpg") no-repeat center center fixed;
+  background: url("./about1.webp") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -51,7 +51,7 @@ body, html {
   background-size: 300% 100%;
   -webkit-background-clip: text;
   color: transparent;
-  animation: gradientAnim 3s linear infinite;
+  animation: gradientAnim 5s linear infinite;
 }
 
 @keyframes gradientAnim {
@@ -75,4 +75,7 @@ body, html {
 .countdown-value {
   font-size: 2rem;
   font-weight: bold;
+}
+body {
+  background-image: url(./);
 }
