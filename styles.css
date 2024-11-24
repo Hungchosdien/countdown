@@ -5,7 +5,7 @@ body, html {
   height: 100%;
   font-family: "Arial", sans-serif;
   background: url("./about1.webp") no-repeat center center fixed;
-  background-size: cover;
+  background-size: 50%;
 }
 
 /* Tạo container cho bảng */
